@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbde3c38-3883-4aa4-9a32-04e8a3ff9898" name="Default Changelist" comment="" />
+    <list default="true" id="bbde3c38-3883-4aa4-9a32-04e8a3ff9898" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -143,6 +145,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -193,6 +196,7 @@
     <option name="width" value="1750" />
     <option name="height" value="998" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -331,12 +335,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564378925165</updated>
-      <workItem from="1564378930699" duration="22245000" />
+      <workItem from="1564378930699" duration="22529000" />
     </task>
+    <task id="LOCAL-00001" summary="springmvc">
+      <created>1564409672132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564409672132</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22245000" />
+    <option name="totallyTimeSpent" value="22529000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="118" y="55" width="1400" height="798" extended-state="0" />
@@ -348,15 +360,15 @@
       <window_info id="Image Layers" order="4" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24962743" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.32882884" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="3" sideWeight="0.5007452" side_tool="true" visible="true" weight="0.3988006" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5007452" side_tool="true" weight="0.3988006" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32833582" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.3298351" />
-      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49925485" visible="true" weight="0.3988006" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49925485" weight="0.3978979" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -373,6 +385,46 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springmvc" />
+    <option name="LAST_COMMIT_MESSAGE" value="springmvc" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
